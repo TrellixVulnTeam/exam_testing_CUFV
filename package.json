@@ -1,0 +1,14 @@
+{
+  "name": "my-exam-blog",
+  "version": "0.0.1",
+  "description": "My exam after the first year at Noroff. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Tønnesland",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.9.0"
+  }
+}
